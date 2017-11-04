@@ -1,4 +1,4 @@
-package com.marinoland.theflashlightofmarinoland;
+package com.marinoland.flashlight;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

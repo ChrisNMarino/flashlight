@@ -1,4 +1,4 @@
-package com.marinoland.theflashlightofmarinoland;
+package com.marinoland.flashlight;
 
 import org.junit.Test;
 
